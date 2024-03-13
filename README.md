@@ -5,7 +5,7 @@ _En el siguiente repositorio se muestran las soluciones al reto 4, junto con el 
 1. [Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.](#1-dado-un-número-entero-determinar-si-ese-número-corresponde-al-código-ascii-de-una-vocal-minúscula)
 2. [Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.](#2-dada-una-cadena-de-longitud-1-determine-si-el-código-ascii-de-primera-letra-de-la-cadena-es-par-o-no)
 3. [Dado un carácter, construya un programa en Python para determinar si el carácter es un dígito o no.](#3-dado-un-carácter-construya-un-programa-en-python-para-determinar-si-el-carácter-es-un-dígito-o-no)
-4. [Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero.](#4-dado-un-número-real-x-construya-un-programa-que-permita-determinar-si-el-número-es-positivo-negativo-o-cero)
+4. [Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero.](#4-dado-un-número-real-x-construya-un-programa-que-permita-determinar-si-el-número-es-positivo-negativo-o-cero-para-cada-caso-de-debe-imprimir-el-texto-que-se-especifica-a-continuación:)
 5. [Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.](#5-dado-el-centro-y-el-radio-de-un-círculo-determinar-si-un-punto-de-r2-pertenece-o-no-al-interior-del-círculo)
 6. [Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.](#6-dadas-tres-longitudes-positivas-determinar-si-con-esas-longitudes-se-puede-construir-un-triangulo)
 
@@ -116,7 +116,7 @@ except ValueError:
     print("Por favor ingrese la variable en el formato apropiado")
 ```
 
-### 6.Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
+### 6. Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
 
 ```
 try:
