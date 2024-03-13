@@ -63,7 +63,7 @@ except ValueError:
     print("Por favor ingrese un caracter válido, el caracter debe ser un número menor a 10")
 ```
 
-### 4. Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. Para cada caso de debe imprimir el texto que se especifica a continuación:
+### 4. Dado un número real x, construya un programa que permita determinar si el número es positivo, negativo o cero. 
 #### Para cada caso de debe imprimir el texto que se especifica a continuación
 #### * Positivo: "El número x es positivo"
 #### * Negativo: "El número x es negativo"
