@@ -2,8 +2,8 @@
 _En el siguiente repositorio se muestran las soluciones al reto 4, junto con el notebook de los mismo._
 
 ## Tabla de contenido
-1. [1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.](#1.-dado-un-número-entero,-determinar-si-ese-número-corresponde-al-código-ascii-de-una-vocal-minúscula.)
-2. [Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.](#dada-una-cadena-de-longitud-1,-determine-si-el-código-ascii-de-primera-letra-de-la-cadena-es-par-o-no.)
+1. [1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.](#1.-dado-un-número-entero,-determinar-si-ese-número-corresponde-al-código-ascii-de-una-vocal-minúscula)
+2. [Dada una cadena de longitud 1, determine si el código ASCII de primera letra de la cadena es par o no.](#dada-una-cadena-de-longitud-1,-determine-si-el-código-ascii-de-primera-letra-de-la-cadena-es-par-o-no)
 	- [Pseudocódigo 2](#pseudocódigo-2)
 	- [Diagrama de flujo 2](#diagrama-de-flujo-2)
 
